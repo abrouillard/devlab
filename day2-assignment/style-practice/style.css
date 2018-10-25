@@ -1,5 +1,14 @@
+.test {
+    background-color:gray;
+}
+
+.test p {
+    color:pink;
+    font-size: 40px;
+}
+
 .boxdesign {
     font-size: 40px;
-    border: 5px;
+    border: 5px solid black;
     width: 100%;
 }
